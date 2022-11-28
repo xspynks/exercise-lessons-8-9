@@ -19,9 +19,11 @@ main {
   width: 600px;
   height: 400px;
   background-color: #344966;
+  color: #edf5ff;
+  font-size: 24px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   border: 4px solid #f4d35e;
   border-radius: 8px;
